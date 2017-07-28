@@ -1,10 +1,10 @@
 # Site settings
 title: MIYO
-SEOTitle: MIYO的博客 | MIYO Blog
+SEOTitle: MIYO的博客 | MIYO
 header-img: img/post-bg-desk.jpg
 email: miyo_yu@163.com
 description: "Stay hungry, stay foolish."
-keyword: "MIYO, MIYO Blog, MIYO的博客, miyo, 庾美容, 产品, 互联网, 设计，"
+keyword: "MIYO, MIYO Blog, miyo, 庾美容, 产品, 互联网, 设计，"
 url: "http://miy000.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/miy000/miy000.github.io.git" # you code repository
